@@ -1,6 +1,6 @@
 # SeletorDeFilmes
 
-O seletor de filmes é um projeto para quem é indeciso na hora de escolher algo para assistir. Caso queira assistir um filme de drama, por exemplo, mas esteja não saiba qual escolher, você tem as seguintes opções no seletor de filme:
+O seletor de filmes é um projeto para quem é indeciso na hora de escolher algo para assistir. Caso queira assistir um filme de drama, por exemplo, mas não saiba qual escolher, você tem as seguintes opções no seletor de filme:
 
 Primeiro, coloque o ano do filme que gostaria de assistir. Caso queira algo mais antigo, selecione de 1980 a 1990.
 
